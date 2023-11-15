@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atik-sabuj" alt="atik-sabuj" /></a> </p>
 
-- 🌱 I’m expert in **✔Dart  ✔Flutter  ✔Provider  ✔GetX  ✔Rest API  ✔Firebase  ✔Shared Preferences  ✔SqLite**
+- 🌱 I’m expert in **✔Dart ✔Flutter  ✔Provider  ✔GetX  ✔Rest API  ✔Firebase  ✔Shared Preferences  ✔SqLite**
 
 - 👨‍💻 All of my projects are available at [linkedin.com/in/atik-sabuj](https://www.linkedin.com/in/atik-sabuj/)
 
