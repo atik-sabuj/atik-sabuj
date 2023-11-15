@@ -1,7 +1,7 @@
 # Atikuzzaman Sabuj
 ![image search api](https://media.licdn.com/dms/image/C5116AQFHHXCXLJBFxQ/profile-displaybackgroundimage-shrink_350_1400/0/1527504624635?e=1705536000&v=beta&t=Y8HwT6L2fe7ZEIn-uSpM-0Vi_CjBxT88sFsdbA14F88)
 
-<h3 align="center">Mobile Applications Developers</h3>
+<h3 align="center">Mobile Applications Developer</h3>
 
 <h4 align="center">A dedicated Mobile apps developer with expertise in Dart, Flutter, Firebase, and REST APIs. With a passion for problem-solving and a strong work ethic, I strive to craft innovative solutions in the realm of mobile technology. My commitment to creating seamless user experiences drives my work, making me adept at transforming ideas into functional and user-friendly applications. Let's connect and bring ideas to life through code!</h4>
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atik-sabuj" alt="atik-sabuj" /></a> </p>
 
-- 🌱 I’m currently learning **✔Dart ✔Flutter ✔Provider ✔GetX ✔Rest API ✔Firebase ✔Shared Preferences ✔SqLite**
+- 🌱 I’m expert in **✔Dart  ✔Flutter  ✔Provider  ✔GetX  ✔Rest API  ✔Firebase  ✔Shared Preferences  ✔SqLite**
 
 - 👨‍💻 All of my projects are available at [linkedin.com/in/atik-sabuj](https://www.linkedin.com/in/atik-sabuj/)
 
