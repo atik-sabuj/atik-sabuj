@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **✔Dart ✔Flutter ✔Provider ✔GetX ✔Rest API ✔Firebase ✔Shared Preferences ✔SqLite**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/atik-sabuj/](www.linkedin.com/in/atik-sabuj/)
+- 👨‍💻 All of my projects are available at [linkedin.com/in/atik-sabuj](https://www.linkedin.com/in/atik-sabuj/)
 
 - 💬 Ask me about **Flutter Mobile Apps**
 
