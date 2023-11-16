@@ -11,7 +11,7 @@
 
 - 🌱 I’m expert in **✔Dart ✔Flutter ✔Provider ✔GetX  ✔Rest API  ✔Firebase  ✔Shared Preferences  ✔Sqflite**
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/atik-sabuj](https://www.linkedin.com/in/atik-sabuj/)
+- 👨‍💻 Available at [linkedin.com/in/atik-sabuj](https://www.linkedin.com/in/atik-sabuj/)
 
 - 💬 Ask me about **Flutter Mobile Apps**
 
