@@ -3,19 +3,19 @@
 
 <h3 align="center">Mobile Applications Developer</h3>
 
-<h4 align="center">A dedicated Mobile apps developer with expertise in Dart, Flutter, Firebase, and REST APIs. With a passion for problem-solving and a strong work ethic, I strive to craft innovative solutions in the realm of mobile technology. My commitment to creating seamless user experiences drives my work, making me adept at transforming ideas into functional and user-friendly applications. Let's connect and bring ideas to life through code!</h4>
+<h4 align="center">A dedicated Mobile apps developer with expertise in Dart, Flutter, Firebase and REST APIs. With a passion for problem-solving and a strong work ethic, I strive to craft innovative solutions in the realm of mobile technology. My commitment to creating seamless user experiences drives my work, making me adept at transforming ideas into functional and user-friendly applications. Let's connect and bring ideas to life through code!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atik-sabuj&label=Profile%20views&color=0e75b6&style=flat" alt="atik-sabuj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atik-sabuj" alt="atik-sabuj" /></a> </p>
 
-- 🌱 I’m expert in **✔Dart ✔Flutter  ✔Provider  ✔GetX  ✔Rest API  ✔Firebase  ✔Shared Preferences  ✔SqLite**
+- 🌱 I’m expert in **✔Dart ✔Flutter ✔Provider ✔GetX  ✔Rest API  ✔Firebase  ✔Shared Preferences  ✔Sqflite**
 
 - 👨‍💻 All of my projects are available at [linkedin.com/in/atik-sabuj](https://www.linkedin.com/in/atik-sabuj/)
 
 - 💬 Ask me about **Flutter Mobile Apps**
 
-- 📫 How to reach me **sabuj235@gmail.com**
+- 📫 Reach me **sabuj235@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
