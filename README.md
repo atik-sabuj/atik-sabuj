@@ -1,5 +1,5 @@
 # Atikuzzaman Sabuj
-![image search api]([https://media.licdn.com/dms/image/C5116AQFHHXCXLJBFxQ/profile-displaybackgroundimage-shrink_350_1400/0/1527504624635?e=1705536000&v=beta&t=Y8HwT6L2fe7ZEIn-uSpM-0Vi_CjBxT88sFsdbA14F88](https://www.linkedin.com/in/atik-sabuj/overlay/background-image/)
+![Background Image]([https://media.licdn.com/dms/image/C5116AQFHHXCXLJBFxQ/profile-displaybackgroundimage-shrink_350_1400/0/1527504624635?e=1705536000&v=beta&t=Y8HwT6L2fe7ZEIn-uSpM-0Vi_CjBxT88sFsdbA14F88](https://www.linkedin.com/in/atik-sabuj/overlay/background-image/)
 
 <h3 align="center">Mobile Applications Developer</h3>
 
