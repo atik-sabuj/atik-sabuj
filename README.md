@@ -1,9 +1,8 @@
 # Atikuzzaman Sabuj
-![Background Image]([https://media.licdn.com/dms/image/C5116AQFHHXCXLJBFxQ/profile-displaybackgroundimage-shrink_350_1400/0/1527504624635?e=1705536000&v=beta&t=Y8HwT6L2fe7ZEIn-uSpM-0Vi_CjBxT88sFsdbA14F88](https://www.linkedin.com/in/atik-sabuj/overlay/background-image/)
 
-<h3 align="center">Mobile Applications Developer</h3>
+<h3 align="center">Mobile Application Developer</h3>
 
-<h4 align="center">A dedicated Mobile apps developer with expertise in Dart, Flutter, Firebase and REST APIs. With a passion for problem-solving and a strong work ethic, I strive to craft innovative solutions in the realm of mobile technology. My commitment to creating seamless user experiences drives my work, making me adept at transforming ideas into functional and user-friendly applications. Let's connect and bring ideas to life through code!</h4>
+<h4 align="center">A dedicated Mobile app developer with expertise in Dart, Flutter, Firebase and REST APIs. With a passion for problem-solving and a strong work ethic, I strive to craft innovative solutions in the realm of mobile technology. My commitment to creating seamless user experiences drives my work, making me adept at transforming ideas into functional and user-friendly applications. Let's connect and bring ideas to life through code!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atik-sabuj&label=Profile%20views&color=0e75b6&style=flat" alt="atik-sabuj" /> </p>
 
