@@ -1,4 +1,4 @@
-# Md. Atikuzzaman Sabuj
+# Atikuzzaman Sabuj
 
 <h3 align="center">Mobile Application Developer</h3>
 
