@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineer</h3>
 
-<h4 align="center">A dedicated Software Developer with expertise in Dart, Flutter, Java Backend Development, REST API Development, Firebase, and Web Development. With a passion for problem-solving and a strong work ethic, I strive to build innovative, scalable, and efficient software solutions. Experienced in developing cross-platform mobile applications, designing and developing backend APIs using Java, and creating dynamic, responsive websites. My commitment to delivering seamless user experiences drives me to transform ideas into functional, reliable, and user-friendly applications. Let's connect and bring ideas to life through code!</h4>
+<h4 align="center">A dedicated Software Engineer with expertise in Dart, Flutter, Java Backend Development, REST API Development, Firebase, and Web Development. With a passion for problem-solving and a strong work ethic, I strive to build innovative, scalable, and efficient software solutions. Experienced in developing cross-platform mobile applications, designing and developing backend APIs using Java, and creating dynamic, responsive websites. My commitment to delivering seamless user experiences drives me to transform ideas into functional, reliable, and user-friendly applications. Let's connect and bring ideas to life through code!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atik-sabuj&label=Profile%20views&color=0e75b6&style=flat" alt="atik-sabuj" /> </p>
 
